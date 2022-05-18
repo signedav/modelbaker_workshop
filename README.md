@@ -19,19 +19,18 @@ Einführung in das Erstellen von QGIS-Projekten zum Erfassen von Geodaten basier
 2. Workshop
    1. Download TG und SH über geodienste.ch (romedi) 10'
    2. Start QGIS Installation Model Baker (dave) 5'
-   3. Wizzard (dave) 90'
-      1. Drag-and-drop XTF, ILI, XML
-      2. Durchklicken und zeigen, dass QGIS-Projekt unbrauchbar ist
-      3. Nochmal von vorne nur mit XTF
-      4. Options
-         1. Smart Inheritance Grundkonzepte
+   3. Wizzard (dave) 90' siehe [speaker notes](speaker_notes/wizzard_script.md)
+      1. Drag-and-drop XTF, ILI, XML - Durchklicken und zeigen, dass QGIS-Projekt unbrauchbar ist
+      2. Nochmal von vorne nur mit XTF
+         1. Models von Repos
+      3. Advanced Options
+         1. Optionen
          2. TOML-File (romedi)
             1. Multipolygon
             2. Multilanguage
-      5. Katalog automatisch mit ilidata.xml
-      6. Basket handling erklären
-      7. Datenimport
-      8. Projekt erstellen
+      4. Smart Inheritance
+      5. Katalog automatisch mit ilidata.xml und Demo UsabILIty Hub
+      6. Datenimport / Basket Handling
 (Pause)
    4. Daten erfassen inkl. Basket (romedi) 10'
       1. Link Child
