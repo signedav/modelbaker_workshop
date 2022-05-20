@@ -67,6 +67,7 @@ Wissen was Baskets / Datasets sind. Wissen wie man Datset Selector und Dataset M
 
 - Zeige Topics **Codelisten** und **Belastete_Standorte**. Da man die Daten der Codelisten nicht bearbeiten können soll und die von Belastete_Standorte schon, kann man die Topics einzeln behandeln. Diese sind strukturell voneinander getrennt.
     Nehmen wir aber an wir möchten die Datensätze von Schaffhausen und Thurgau in der gleichen Datenbank bearbeiten, sie aber dann einzeln validieren / updaten / exportieren. Dafür gibts Datasets und Baskets.
+    Keine Grafik. Dafür evtl. auf **FLIPCHART** zeichnen.
 
     > Datasets sind Datensätze eines bestimmten räumlichen oder thematischen Bereichs, die aber die Modellstruktur nicht tangieren. Eine kleinere Instanz sind die Baskets oder Behälter. Währenddem die Datasets meist das ganze Modell umfassen, sind die Behälter meist Teil eines Topics. Oftmals sind sie sogar die Teilmenge von Topic und Dataset.
 
