@@ -36,6 +36,7 @@ VERSION "2021-10-06"  =
     END Public_Office_Building;
 
     CLASS Parking =
+      Number : MANDATORY 1..999;
     END Parking;
 
     ASSOCIATION Parking_Building =
