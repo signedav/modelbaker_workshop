@@ -1,3 +1,15 @@
+### Postgres DB erstellen mit Extensions (Mitmachen)
+
+- Datenbank erstellen
+- Extensions installieren
+
+> **Ziel:** 
+Dass man mit weiter, weiter, weiter zu einem "Resultat" kommt.
+
+- Drag-and-drop - don't stop, don't turn back
+- Hintergrundkarte einfügen - zeigen was es gibt
+- Formular öffnen Punkte / Formular öffnen Polygons -> Problem mit Geometry Mapping
+
 ### Wizzard (dave) 90'
 
 #### Drag-and-drop XTF, ILI, XML (Mitmachen)
@@ -26,13 +38,14 @@ Wissen woher die Models kommen.
 > **Ziel:**
 Wissen was die Advanced Options sollen und was TOMLs sind und können. 
 
-- Drag-and-drop XTF von SH
+- Drag-and-drop XTF von SH und auch des Katalogs
 - Select Advanced Options sind Optionen, die dem ili2db übegeben werden:
   - Smart Inheritance ist wie die Vererbungen abgebildet werden -> See later on.
   - Create Basked Column definiert das Basket Handling -> See later on.
   - Stroke Arcs definiert ob Curves zu Polygonen werden sollen.
   - SQL Scripts sind User definierte SQL Scripts die vor oder nach der DB-Erstellung ausgeführt werden.
   - Extra Model Information Files sind das was wir brauchen -> Romedi
+- Weiter gehts und erwähnen, dass der Katalog zuerst geladen werden muss.
 
 #### Smart Inheritance Mapping Exkurs (Theorie)
 > **Ziel:**
@@ -56,10 +69,6 @@ Wissen dass es UsabILIty Hub und ildata.xml Daten-Verlinkung gibt und ModelBaker
 
 - Die Metaconfig Toppings haben wir bisher noch übersprungen.
 - Erklären der Möglichkeit, dass man Topping Files (ili2db Parameter, Katalog-Daten und QGIS Projektsettings) auch auf den Repos ablegen kann. Wie's genau funktioniert sehen wir später.
-- Drag-and-drop XTF von SH
-- Wähle Metaconfig, zeige wie TOML gesetzt wird, zeige wie Kataloge geladen werden automatisch.
-- Zeige wie Katalog zur Auswahl steht im Datenimport
-
 #### Datenimport / Baskets (Mitmachen)
 
 > **Ziel:**
@@ -76,3 +85,10 @@ Wissen was Baskets / Datasets sind. Wissen wie man Datset Selector und Dataset M
 - Darstellung anhand von t_basket
 - Zeige Technische Tabellen
 - Zeige Dataset Selector
+
+#### Nach Romedis Erklärung UsabILIty Hub
+
+- Drag-and-drop XTF von SH
+- Wähle Metaconfig, zeige wie TOML gesetzt wird, zeige wie Kataloge geladen werden automatisch.
+- Zeige wie Katalog zur Auswahl steht im Datenimport
+
