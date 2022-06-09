@@ -40,3 +40,10 @@ Einführung in das Erstellen von QGIS-Projekten zum Erfassen von Geodaten basier
    7. Daten Export mit richtigen Daten (romedi) 5'
    8. Konzept und Erstellung Projekt mit UsabILIty Hub > Ausblick dass Export kommt (romedi) 15'
 3.  Diskussion, Inputs, Verbesserungsvorschläge (romedi, dave) 20'
+
+## To Do
+- [ ] Workshop auf Deutsch
+- [ ] Folien zusamenführen?
+- [ ] Liste Anmeldungen anfordern
+- [ ] Files auf einem Share ablegen (z.B. .toml, Folien, ...)
+- [ ] Angemeldete informieren: BYOD, QGIS 3.22 oder höher, Postgres + PostGIS (Geopackage eingeschränkt), Links zu Files
